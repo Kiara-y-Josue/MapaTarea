@@ -8,6 +8,6 @@
     TRIANA CUENCA WIMPER JOSUE
     COBEÑA ZAMBRANO BRITTANY THAYLI
     
-<img src="cap1.png" width="200" height="400">
+<img src="prueba1.png" width="200" height="400">
 ----------<br>
 ----------
